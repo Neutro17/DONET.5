@@ -1,0 +1,16 @@
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.csprojAssemblyReference.cache
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.AssemblyInfoInputs.cache
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.AssemblyInfo.cs
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.csproj.CoreCompileInputs.cache
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.exe
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.deps.json
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.runtimeconfig.json
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.runtimeconfig.dev.json
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.dll
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\ref\APLICATIVO.dll
+D:\Aluno\Documents\DOTNET\APLICATIVO\bin\Debug\net5.0\APLICATIVO.pdb
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.dll
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\ref\APLICATIVO.dll
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.pdb
+D:\Aluno\Documents\DOTNET\APLICATIVO\obj\Debug\net5.0\APLICATIVO.genruntimeconfig.cache
